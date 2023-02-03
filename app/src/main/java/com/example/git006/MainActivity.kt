@@ -17,5 +17,7 @@ class MainActivity : AppCompatActivity() {
         val age = 1500
 
         Toast.makeText(this, "$name and $age", Toast.LENGTH_SHORT).show()
+        
+        //davoud add commit and android
     }
 }

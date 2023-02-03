@@ -20,4 +20,8 @@ class MainActivity : AppCompatActivity() {
         
         //davoud add commit and android
     }
+
+    private fun davoud(): String {
+        return "davoud fathi"
+    }
 }
